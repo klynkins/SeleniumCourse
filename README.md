@@ -1,1 +1,1 @@
-# SeleniumCourse
+# SeleniumCourse PluralSight
